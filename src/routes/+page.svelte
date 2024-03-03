@@ -1,4 +1,4 @@
-<script lang=ts>
+<script lang="ts">
     function hasScript(str: string) {
         return new DOMParser().parseFromString(str, 'text/html').querySelector('script') !== null;
     };
