@@ -1,19 +1,23 @@
-# For Giving
+# Creating MScript
+
 # By Najman Husaini
 
-# EXT. SUBURBAN HOUSE IN WINTER BLANKETED WITH SNOW. DAY
-We look at the whole house straight on. The front door should be in frame, but it is not the focus. Other houses are not quite in view, but the setting should clearly be covered in snow.
+# EXT. Snowy landscape. DAY
+A lone ranger is standing in a wide open space, surrounded by huge mountains.
 
-## Henry
-I think I just happened to sit next to him during lunch. While everyone was already eating, he was just staring at his lunch box. I was curious, but I was too shy to say anything so I just stared at him.
+## Naj (V.O.)
+I've spent years trying to figure out the right way to write scripts.
 
-JACK stares back at HENRY, then turns back at his lunch box. JACK then depressingly opens his lunch box.
+Naj's thoughts only spanned one line, so this line becomes the action line.
 
-## Henry
-It turns out he didn't have any food to eat! My reflexes kicked in and I gave him half of my sandwich no questions asked.
+## Naj
+(Screaming)
+When will the world finally change!?
+
+### CUT TO
 
 # INT. LIVING ROOM COUCH. DAY
 
-## Sarah
-(Writing in her notepad)
-Okay, that's a good start. What's the next big moment that defined your friendship?
+## Naj
+(Staring at his laptop)
+This is probably a good enough example on how to write scripts.
