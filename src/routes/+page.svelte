@@ -247,7 +247,7 @@ p {
 		{:else if error === 'Unreadable'}
 			<output>The file is unreadable. This could be due to browser restrictions.</output>
 		{:else if error === 'IncorrectTitle'}
-			<output>The uploaded file does not contain a valid title. Please review the example <a href="/example.md">source file</a>.</output>
+			<output>The uploaded file does not contain a valid title. Please review the example <a href="https://raw.githubusercontent.com/manglemix/mscript/main/static/example.md">source file</a>.</output>
 		{:else if error === 'NoContent'}
 			<output>The uploaded file is empty.</output>
 		{:else if error === 'NotText'}
@@ -264,7 +264,7 @@ p {
 				<h2>How does this work?</h2>
 				<p>
 					Simply upload a text file that follows the markdown-script format, and this webapp will reformat it into industry-standard scripts.
-					Here is an example <a href="/example.md">source file</a>. Empty lines are ignored, extra spaces are removed, capitalization is fixed, and missing
+					Here is an example <a href="https://raw.githubusercontent.com/manglemix/mscript/main/static/example.md">source file</a>. Empty lines are ignored, extra spaces are removed, capitalization is fixed, and missing
 					punctuation will be added when possible. The only thing you need to pay attention to is the number of # you use.
 				</p>
 			</li>
