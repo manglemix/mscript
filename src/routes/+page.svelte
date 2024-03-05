@@ -213,6 +213,10 @@ p {
 	var files: FileList;
 </script>
 
+<svelte:head>
+	<title>MScript</title>
+</svelte:head>
+
 <body>
 	<header>
 		<h1>MScript</h1>
